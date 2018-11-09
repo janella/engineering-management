@@ -1,5 +1,5 @@
 # My engineering manager readme
-My thoughts on managing technical people.
+Thoughts on managing technical people.
 
 ## Hi, I'm Janella. I want to help you do the best work of your life.
 
@@ -9,71 +9,52 @@ This is based off of the ideas found in [this blogpost](https://matthewnewkirk.c
 
 ## My role
 
-I'm a grad team lead. This means that I'm responsible for coaching, supporting, and mentoring Xero graduates through our one-year graduate program.
+I'm a team lead for 8bit Engineering, which is part of the Platform Engineering team at Xero. This means that I'm accountable for making 8bit a great place for your professional development, where we deliver great solutions for our client teams. I also want to make sure it's a fun and interesting team to be a part of.
 
-I'm here to:
-* Help you explore your options and interests during your four rotations
-* Work with you to develop a style of learning that suits you, and that you can use in the future
-* Provide you with specific, actionable feedback from your colleagues
-* Make sure the Xero grad program attracts and retains great talent (like you!)
-
-That last bit is important - if I'm doing something that makes it hard for me to retain your talent and potential, don't hesitate to tell me.
-
-I'm a developer by trade, so sometimes my technical knowledge won't align with the rotation you're in, but I strive to have great communication lines with your rotation buddy and ensure that you receive relevant, timely feedback.
+I'm a developer by trade, but I accept that early on as a team lead, I won't be doing much hands-on development.
 
 ## My values
 
-I became a manager because I love the idea of growing other people. As an intern, there were a lot of people who I respected and admired that believed in my potential, during a time when I didn't think I was all that much.
-
-I strive to believe in you as much as they believed in me.
-
 I want our relationship to emphasise:
 * Empowerment
-* Growth
 * Trust and transparency
 * Experimentation
 
-My people management responsibilities take priority over everything else - my own development work included. If you want to talk to me or have a yarn about anything at all, flick me a message and I will make time.
+My people management responsibilities take priority over everything else. If you want to talk to me or discuss a matter, flick me a message and I will make time.
 
 ## Empowerment
 
-You're here because you're smart and capable. I trust you to know your own limits, and to call for support if you need it. I'm here to ensure you have the skills, space and support you need to do a good job and to take ownership of your technical work and your career.
+I trust you to know your own limits, and expect and encourage you to call for support if you need it. What I want to ensure is that you have the skills, space, and support you need to do a good job and to take ownership of your technical work and your career.
 
-If at any point, you feel as though you are struggling to do your job or feel disempowered in some way, please don't hesitate to raise it with me. I'm here to advocate for you and your career development.
-
-## Growth
-
-There are two parts to growth as a grad at Xero: learning and feedback.
-
-### Learning
-Learning is a bit funny in the grad year. Because of the rotations and the exposure you get to the different disciplines, it's hard to know what you might value or aspire to do in a few months time. It's also a big shock to the system (and to the ego!) every time you start a new rotation and get put back to square one.
-
-I aim to work with you to set clear and achievable expectations for your career growth and learning. These expectations can be over your grad year, and also within the three-month rotations that aim to give you a solid idea of what that discipline or team entails. But the most valuable thing to grow overall is learning how _you_ learn on the job - and you'll get loads of practice with that every time you start a rotation.
-
-While ultimately the responsibility for your personal development lies with you, I'm always available if you need someone to bounce ideas off of.
-
-### Feedback
-The other half of growth here is feedback. I aim to give you continual feedback over your grad year. While the nature of the grad team lead role is that I don't work directly with you in a team, I aim to give you feedback on how you're doing as soon as I hear it. I want to tell you when you've done something awesome that your team has noticed. I also want to tell you if there's something that I believe you could do better next time.
+While ultimately the responsibility for your personal development lies with you, I'm always available if you need someone to bounce ideas off of. I expect you to tell me the things you want to do or achieve, and I'll do my best to help you find that opportunity.
 
 ## Trust and transparency
 
-I want to understand your motivators and empathise with how you want to do work. I believe every developer and engineer is different, and I strive to mould our managerial relationship into one that works best for the both of us. I'm here to make sure Xero is a safe place for you to work, and that your physical and mental wellbeing is kept as a priority here.
+I want to understand your motivators and empathise with them. I'm here to make sure Xero is a safe place for you to work and express your opinions, and that your physical and mental wellbeing is seen as a priority. 
 
-I also believe in making sure our lines of communication are as transparent and as upfront and honest as possible. I want to hear your honest opinion about our relationship and if you think I can improve in something, and I want to be able to give you my honest feedback also. Please feel free to be frank with me.
+My expectation is that our lines of communication are as transparent, as upfront, and as honest as possible. I want to hear your opinion about our relationship and our team, and if you think I can improve in something, and I want to be able to give you my honest feedback also. Please feel free to be frank with me. I aim to give you feedback on how you're doing as soon as I hear it. I want to tell you when you've done something awesome that your team has noticed. I also want to tell you if there's something that I believe you could do better next time.
 
 ## Experimentation
 
-I value trying new things when managing someone. This may very well be your first experience with a formal technical manager. I'm prone to tossing ideas or suggestions out there and I don't expect all of them to stick, so don't hesitate to be a bit wild or wacky with something you want to try in terms of your career or your style of learning. I would absolutely love to try a style of management that I haven't tried before with a grad!
+I value trying new things as a team lead and as a manager. I'm prone to tossing ideas or suggestions out there and I don't expect all of them to stick, so don't hesitate to be a bit wild or wacky with something you want to try in terms of your career or the team.
 
-## I'm still learning too!
+The other half of this is ensuring that the environment in the team feels safe enough to try these experiments - whether it's related to technical, communications, process, or teamwork aspects. I'm relying on you and others in the team to be comfortable with change and just giving things a go, and raising if something threatens that sense of safety.
 
-I'm still in the early days of my career and my line management experience. I've been a developer for seven years, and a people manager with the grad program for two years. I still have so much to learn about managing people and creating great software. I've made a lot of mistakes, but I always strive to get better.
+## Our 1:1s
+>spend time preparing 10mins
+>raise challenges
+>raise things you want to do/improve on
+>buy in to the 1:1 - link to helpful 1:1 doc https://jvns.ca/blog/2018/09/22/new-zine--help--i-have-a-manager/
+
+>default two weeks
+>bringing in agile/continuous improvement philosophies into a professional development setting
+>
+
+## I need your help
+
+I'm still in the early days of my career and my line management experience. I've been a developer for eight years, a people manager with the grad program for two years, and a team lead for less than that. I still have so much to learn about managing people and creating great software. I've made a lot of mistakes, but I always strive to get better.
 
 One of the best ways to know if I'm doing my job okay is through feedback from you. Please feel free to give me feedback on my management approach during our 1:1s, through Slack, email, or via my manager - whatever you're comfortable with.
-
-## After your grad year
-
-You'll be transferred to your new team's people lead at the end of the grad year. I'm a giant sap so it's always a bittersweet time for me, but I know you'll do well! I'm still around of course, so if you ever want to have a chat over a coffee or a scone, flick me a message. I would love to hear how you're doing.
 
 Thanks for reading this! I'm looking forward to working with you. :)
 
